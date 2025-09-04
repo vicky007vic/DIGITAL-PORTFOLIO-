@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2025 Vignesh Vicky 23 (https://codepen.io/Vignesh-Vicky-23/pen/qEOoXPw)
+Copyright (c) 2025 Vignesh Vicky 23 (https://codepen.io/Vignesh-Vicky-23/pen/NPGeOmW)
+Fork of an original work Digital portfolio  (https://codepen.io/Vignesh-Vicky-23/pen/bNVOmJb)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
